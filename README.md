@@ -1,13 +1,13 @@
-#Expense Tracker App (React Js, Material UI)
+# Expense Tracker App (React Js, Material UI)
 Website-Based Expense Tracker App.
 
-##Application Summary
+## Application Summary
 Libraries used in this application:
 
 - React : 17v
 - MaterialUI : 14.11v
 
-##Application Features
+## Application Features
 
 - Calculates Balance
 - Maintains History
