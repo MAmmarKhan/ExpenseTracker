@@ -2,7 +2,7 @@
 Website-Based Expense Tracker App.
 
 ## Deployed Link:
-http://farmexpensetrack.surge.sh/
+http://expenseTracker-fox.surge.sh
 
 ## Application Summary
 Libraries used in this application:
